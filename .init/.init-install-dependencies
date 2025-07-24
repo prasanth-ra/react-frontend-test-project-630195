@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/react-frontend-test-project-630195/react_js_frontend"
+}
