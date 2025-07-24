@@ -1,1 +1,3 @@
-# react-frontend-test-project-630195
+# Project Repository
+
+This is the initial README file for the project.
